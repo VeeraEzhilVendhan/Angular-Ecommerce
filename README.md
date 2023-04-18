@@ -1,5 +1,11 @@
 # AngularEcommerce
 
+Simple Ecommerce Web App using Angular Frontend 
+
+
+
+## Angular generated Comment
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
 ## Development server
